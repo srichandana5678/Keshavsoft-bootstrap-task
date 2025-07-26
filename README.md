@@ -38,5 +38,6 @@ Chrome (latest)
 Firefox (latest)
 Safari (latest)
 Edge (latest)
-📄 License
-© 2024 SrichCode Labs. All rights reserved.
+
+
+Website Link : https://relaxed-fudge-3f0c7e.netlify.app/
