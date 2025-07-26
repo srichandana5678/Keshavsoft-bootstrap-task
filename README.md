@@ -8,11 +8,6 @@ Modern UI components and animations
 Gradient text effects and custom styling
 Mobile-friendly design
 
-src/
-├── index.html      # Home page with hero section and features
-├── about.html      # About page with company info and values
-└── contact.html    # Contact page with form and location info
-
 
 🛠️ Technologies Used
 HTML5
